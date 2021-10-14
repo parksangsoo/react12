@@ -24,7 +24,7 @@ const Add = () => {
     
     return (
         <AddMain>
-            <h1>단어 추가하기</h1>
+            <h1>단어 추가d하기</h1>
             <InputBox>
                 <p>단어</p>
                 <input type="text" ref={text}/>
